@@ -34,11 +34,17 @@ My expertise also include data analysis and interpretation, and the development 
       </a>
       <br>Svelte
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
     </td>
    </tr>
 </table>
