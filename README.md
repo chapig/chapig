@@ -46,5 +46,23 @@ My expertise also include data analysis and interpretation, and the development 
       </a>
       <br>Flask
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="Jetbrains" />
+      </a>
+      <br>Jetbrains
+    </td>
    </tr>
 </table>
