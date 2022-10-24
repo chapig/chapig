@@ -64,5 +64,11 @@ My expertise also include data analysis and interpretation, and the development 
       </a>
       <br>Jetbrains
     </td>
+                <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png.webp" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
    </tr>
 </table>
